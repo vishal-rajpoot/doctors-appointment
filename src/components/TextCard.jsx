@@ -29,7 +29,7 @@ export const TextCard = () => {
         <div className="h-[200px] w-[300px]">
           <img
             className="aspect-[3/2] bg-gray-50 object-cover lg:aspect-[4/3] lg:h-[300px] xl:aspect-[16/9]"
-            src="https://plus.unsplash.com/premium_photo-1679079456783-5d862f755557?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjQ3fHxtYW4lMjB3aXRoJTIwbGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+            src="https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
             alt=""
           />
         </div>
